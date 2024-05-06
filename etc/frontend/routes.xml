@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
+    <router id="standard">
+        <route frontName="checkouttimer" id="checkouttimer">
+            <module name="Bluethinkinc_Checkouttimer"/>
+        </route>
+        <route frontName="clearquote" id="clearquote">
+            <module name="Bluethinkinc_Checkouttimer"/>
+        </route>
+    </router>
+</config>

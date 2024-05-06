@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <bluethinkinc_checkout_time>
+            <general> 
+                <checkout_time>15</checkout_time> 
+                <checkout_time_label>Product Time Expired:</checkout_time_label>
+            </general>
+        </bluethinkinc_checkout_time>
+    </default>
+</config>
